@@ -1,0 +1,62 @@
+/* General Styling */
+body {
+    background-color: #e0f7fa;
+    color: #333;
+}
+
+/* Navbar */
+.navbar-light {
+    background-color: #90caf9 !important;
+}
+
+/* Header */
+header {
+    background-color: #1565c0;
+}
+
+header h1, header p {
+    margin-bottom: 20px;
+}
+
+.profile-photo {
+    width: 100px;
+    height: 100px;
+    border: 3px solid white;
+}
+
+/* Overview Section */
+#overview {
+    margin-top: 20px;
+}
+
+#overview h2 {
+    color: #1565c0;
+}
+
+/* Projects Section */
+#projects h2 {
+    color: #1565c0;
+}
+
+/* Hackathons Section */
+#hackathons h2 {
+    color: #1565c0;
+}
+
+.list-group-item {
+    background-color: #e3f2fd;
+}
+
+/* Footer Section */
+footer {
+    background-color: #1565c0;
+}
+
+footer a {
+    text-decoration: none;
+    color: #ffeb3b;
+}
+
+footer a:hover {
+    color: #fbc02d;
+}
